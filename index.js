@@ -1,0 +1,1 @@
+module.exports = require("./dist/ws-binary-node.js");
