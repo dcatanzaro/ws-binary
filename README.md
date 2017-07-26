@@ -2,7 +2,9 @@
 WS Binary is the simple way to send and receive binary data between browser and node
 
 ## Install module
-    $ npm install ws-binary --save
+```
+npm install ws-binary --save
+```
 
 ## Require module
 
