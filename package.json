@@ -1,12 +1,16 @@
 {
   "name": "ws-binary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcatanzaro/ws-binary.git"
+  },
+  "author": "Damián Catanzaro <damiancatanzaro@gmail.com> (http://damiancatanzaro.com/)",
   "license": "ISC",
   "dependencies": {
     "bytebuffer": "^5.0.1"
